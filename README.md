@@ -1,6 +1,6 @@
 <!--
  * @Description:
- * @telegram: @sd_msgbot
+ * @telegram: @tghzsx_bot
 -->
 ## 声明
 <div align="center">
@@ -8,7 +8,7 @@
 
 ❗️❗️❗️本文内容严禁在中国大陆使用，一切违法后果请自行承担❗️❗️❗️
 
-❗️❗️❗️存在️广告内容，请自行辨别真假，出事本人概不负责❗️❗️❗️
+❗️❗️❗️存在️广告内容，请自行辨别真假管好自己的钱包，出问题本站概不负责❗️❗️❗️
 
 ### 电报真人粉: 1000人/4000元,推荐位挂直到涨粉1000人
 商务合作：[sobot1024@gmail.com](mailto:sobot1024@gmail.com)或[@tghzsx_bot](https://t.me/tghzsx_bot)
@@ -20,7 +20,7 @@
 
 </div>
 
-| [![@TG最强搜索机器人](https://i.imgur.com/uTMZCDf.png)<br>@TG最强搜索机器人](https://t.me/sosoo?start=a_6294881820) | [![@同城约炮](https://i.imgur.com/hFz9t0f.png)<br>❤️女神约炮❤️](https://t.me/+zsmHkWJeSXIzODJl)  |[![@极搜JiSou](https://i.imgur.com/1VoAGvh.png)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_6294881820) |
+| [![@TG最强搜索机器人](https://i.imgur.com/uTMZCDf.png)<br>@TG最强搜索机器人](https://t.me/sosoo?start=a_6294881820) | [![@找妹子](https://i.imgur.com/hFz9t0f.png)<br>❤️找妹子❤️](https://t.me/+zsmHkWJeSXIzODJl)  |[![@极搜JiSou](https://i.imgur.com/1VoAGvh.png)<br>@极搜JiSou](https://t.me/jisou2bot?start=a_6294881820) |
 |:---:|:---:|:---:|
 | [![@i快搜](https://i.imgur.com/CsCtOBH.png)<br>@i快搜](https://t.me/ikuaisobot?start=7352210715) |  [![@频道转发小助手](https://i.imgur.com/58e8neu.png)<br>@频道转发小助手](https://t.me/tgzfxzsbot) |[![@极搜JiSo](https://i.imgur.com/we9lyse.jpeg)<br>@极搜JiSo](https://t.me/jiso?start=a_6294881820)|
 | [![搜片神器](https://i.imgur.com/SVox0Se.png)<br>搜片神器](https://t.me/soupiansoso)  |  [![色色搜索](https://i.imgur.com/pwNAjvK.png)<br>❤️色色搜索🔞](https://t.me/sesesesousuo) | [![暗网搜索](https://i.imgur.com/woGNZUA.png)<br>暗网搜索](https://t.me/anwangdarknet)|
@@ -59,6 +59,7 @@ twitter💰nebx.io空投地址:[https://nebx.io/](https://nebx.io/login?v=996539
 *   Telegram ❤️色色搜索🔥NSFW:[https://t.me/sesou20w](https://t.me/sesou20w)
 *   Telegram ❤️色片搜索🔥Pron:[https://t.me/sepiansousuo](https://t.me/sepiansousuo)
 *   Telegram 🔞18️+🔥NSFW:[https://t.me/se200000](https://t.me/se200000)
+*   Telegram 🔞反差资源搜索🔥:[https://t.me/resource4](https://t.me/resource4)
 *   Telegram 🥷暗网搜索🔍:[https://t.me/anwangbots](https://t.me/anwangbots)
 *   Telegram 🔥搜片神器🎥:[https://t.me/soupiantg](https://t.me/soupiantg)
 *   Telegram 🔥全网吃瓜黑料搜索群组🔥:[https://t.me/sousuo91p](https://t.me/sousuo91p)
@@ -94,7 +95,7 @@ twitter💰nebx.io空投地址:[https://nebx.io/](https://nebx.io/login?v=996539
 ### 会员 | 能量租赁机器人 【可找我代充36U/年，比机器人要便宜】
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-|  我   |   [@sd_msgbot](https://t.me/sd_msgbot)  | 36U一年 |
+|  我   |   [@tghzsx_bot](https://t.me/tghzsx_bot)  | 36U一年 |
 | 会员机器人       |   [@kttgvip_bot](https://t.me/kttgvip_bot)  | 自动开通会员机器人，支持USDT、TRX、支付宝、微信等平台开通|
 | 能量租赁机器人      | [@trxgd_bot](https://t.me/trxgd_bot)       |一款全自动的能量租赁机器人
 
